@@ -1,0 +1,18 @@
+{
+  "name": "katemygit",
+  "version": "1.0.0",
+  "description": "new json file",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --progress --display-error-details --display-entrypoints --display-reasons"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KateMyGit/lab3/tree/main/ИТ_лаб5"
+  },
+  "keywords": [
+    "lab5"
+  ],
+  "author": "me",
+  "license": "MIT"
+}
